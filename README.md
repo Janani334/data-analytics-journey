@@ -121,7 +121,7 @@ This repository represents my progress from learning the fundamentals to buildin
 🤝 Connect With Me
 
 - 💼 LinkedIn: "Janani M" (YOUR-LINKEDIN-URL)
-- 🐙 GitHub: "Janani M" (YOUR-GITHUB-URL)
+- 🐙 GitHub: "Janani M" (https://github.com/Janani334)
 
 ---
 
