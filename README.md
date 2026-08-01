@@ -120,7 +120,7 @@ This repository represents my progress from learning the fundamentals to buildin
 
 🤝 Connect With Me
 
-- 💼 LinkedIn: "Janani M" (https://www.linkedin.com/in/janani-murugan-039952425)
+- 💼 LinkedIn: "Janani M" (https://www.linkedin.com/in/janani-murugan34)
 - 🐙 GitHub: "Janani M" (https://github.com/Janani334)
 
 ---
